@@ -1,0 +1,52 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "AMD Ryzen 5 3600",
+            "desc": "AMD Ryzen 5 3600 6 Cores & 12 Threds",
+            "price": 15500,
+            "color": "Black & Silver",
+            "image": "https://www.waltercomputer.com/uploads/2/3/5/5/23551990/s558362082276629026_p1083_i3_w1280.png?width=640"
+        },
+        {
+            "id": 2,
+            "name": "AMD Ryzen 5 2600",
+            "desc": "AMD Ryzen 5 2600 6 Cores & 12 Threds",
+            "price": 12500,
+            "color": "Black & Silver",
+            "image": "https://cf.shopee.co.th/file/b42c416fe411ca7a034465c6bb88251c"
+        },
+        {
+            "id": 3,
+            "name": "AMD Ryzen 5 3500",
+            "desc": "AMD Ryzen 5 3500 6 Cores & 6 Threds",
+            "price": 13500,
+            "color": "Black & Silver",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/81fbUyjzEmL._SX355_.jpg"
+        },
+        {
+            "id": 4,
+            "name": "AMD Ryzen 5 3500X",
+            "desc": "AMD Ryzen 5 3500X 6 Cores & 6 Threds",
+            "price": 15000,
+            "color": "Black & Silver",
+            "image": "http://sc04.alicdn.com/kf/H4b07db2785e84027a2e4303f90bec264A.jpg"
+        },
+        {
+            "id": 5,
+            "name": "INTEL Core I5 9400f",
+            "desc": "INTEL Core I5 9400f 6 Cores & 12 Threds",
+            "price": 12500,
+            "color": "Black & Silver",
+            "image": "https://ph-test-11.slatic.net/p/e2db87b9a7a2b75c185e7f2dc9ea48b6.jpg"
+        },
+        {
+            "id": 6,
+            "name": "INTEL Core I5 10400f",
+            "desc": "INTEL Core I5 9400f 6 Cores & 12 Threds",
+            "price": 14500,
+            "color": "Black & Silver",
+            "image": "https://static.wixstatic.com/media/131a7a_3a1cbb1314ed4d7da9278ab69a786b09~mv2.png/v1/fill/w_498,h_526,al_c,usm_0.66_1.00_0.01/131a7a_3a1cbb1314ed4d7da9278ab69a786b09~mv2.png"
+        }
+    ]
+}
